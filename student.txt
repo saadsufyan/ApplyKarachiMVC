@@ -1,0 +1,176 @@
+first name
+last name
+Username
+enter email address
+a
+0
+January
+Male
+day
+year
+Student
+first name
+last name
+Username
+enter email address
+pass
+0
+January
+Male
+day
+year
+Student
+first name
+last name
+Username
+enter email address
+pass
+0
+January
+Male
+day
+year
+Student
+first name
+last name
+Username
+enter email address
+pass
+0
+January
+Male
+21
+12
+Student
+first name
+last name
+Username
+enter email address
+pass
+0
+January
+Male
+day
+year
+Student
+first
+second
+father
+pass
+pass
+0
+aej
+Male
+January
+21
+615
+first
+second
+father
+pass
+pass
+0
+aej
+Male
+January
+21
+615
+saad
+sufyan
+saad1
+123
+123
+0
+saadsufyan19@gmail.com
+Male
+July
+2
+1993
+saad
+sufyan
+saad1
+123
+123
+0
+saadsufyan19@gmail.com
+Male
+July
+2
+1993
+Haris
+Asif
+haris01
+123
+123
+0
+ahaah
+Male
+March
+1
+1994
+haris
+dsdsd
+haris01
+123
+123
+0
+ahah
+Male
+January
+1
+111
+haris
+saas
+taha01
+123
+123
+0
+dsaas
+Male
+January
+2
+2
+taha
+sjsjs
+taha01
+123
+123
+0
+hsdhsu
+Male
+January
+sdsd
+sd
+Haris
+fdsd
+haris01
+123
+123
+0
+dsss
+Male
+January
+333
+3333
+Haris
+fdsd
+haris02
+123
+123
+0
+dsss
+Male
+January
+333
+3333
+ali
+moiz
+ali moiz
+1234
+1234
+0
+alimoiz@yahoo.com
+Male
+April
+14
+1994
